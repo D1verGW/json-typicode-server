@@ -1,7 +1,7 @@
 {
   "posts": [{
     "id": [],
-    "title": "Workout of the Week:\nMinutes",
+    "title": "TEST WRONG FIELD TYPE",
     "description": "You can do anything for a minute! 41-time marathoner Dorothy Beal shares her favorite workout to get you ready to give it your all on race day.",
     "createBy": "Janine Smith",
     "createDate": "16 May 2019",
@@ -9,8 +9,8 @@
     "link": "./",
     "imgUrl": "https://moiregion.com/media/k2/items/cache/69b5f85da08d181d48515c6d41e3e0a5_XL.jpg"
   }, {
-    "id": "2123451252222123",
-    "title": "Workout of the Week:\n“Say Yes!”",
+    "id": "1",
+    "title": "TEST ADDITIONAL FIELD",
     "description": "Great Britain international marathoner Lily Partridge shares a workout designed to keep you going when your legs get tired!",
     "createBy": "Janine Smith",
     "createDate": "18 May 2019",
@@ -19,7 +19,15 @@
     "testField": "./faf",
     "imgUrl": "https://4sport.ua/_upl/2/1482/233370614.jpg"
   }, {
-    "id": "22222124124123",
+    "id": "2",
+    "title": "TEST NOT ALL FIELDS",
+    "createBy": "Janine Smith",
+    "createDate": "18 May 2019",
+    "trail": "Little Oil Creek",
+    "link": "./",
+    "imgUrl": "https://4sport.ua/_upl/2/1482/233370614.jpg"
+  }, {
+    "id": "3",
     "title": "Workout of the Week:\n“Say Yes!”",
     "description": "Great Britain international marathoner Lily Partridge shares a workout designed to keep you going when your legs get tired!",
     "createBy": "Janine Smith",
@@ -28,7 +36,7 @@
     "link": "./",
     "imgUrl": "https://4sport.ua/_upl/2/1482/233370614.jpg"
   }, {
-    "id": "222235232123",
+    "id": "4",
     "title": "Workout of the Week:\n“Say Yes!”",
     "description": "Great Britain international marathoner Lily Partridge shares a workout designed to keep you going when your legs get tired!",
     "createBy": "Janine Smith",
@@ -37,7 +45,7 @@
     "link": "./",
     "imgUrl": "https://4sport.ua/_upl/2/1482/233370614.jpg"
   }, {
-    "id": "224323222123",
+    "id": "5",
     "title": "Workout of the Week:\n“Say Yes!”",
     "description": "Great Britain international marathoner Lily Partridge shares a workout designed to keep you going when your legs get tired!",
     "createBy": "Janine Smith",
@@ -46,7 +54,7 @@
     "link": "./",
     "imgUrl": "https://4sport.ua/_upl/2/1482/233370614.jpg"
   }, {
-    "id": "22123222123",
+    "id": "6",
     "title": "Workout of the Week:\n“Say Yes!”",
     "description": "Great Britain international marathoner Lily Partridge shares a workout designed to keep you going when your legs get tired!",
     "createBy": "Janine Smith",
@@ -55,7 +63,7 @@
     "link": "./",
     "imgUrl": "https://4sport.ua/_upl/2/1482/233370614.jpg"
   }, {
-    "id": "252222123",
+    "id": "7",
     "title": "Workout of the Week:\n“Say Yes!”",
     "description": "Great Britain international marathoner Lily Partridge shares a workout designed to keep you going when your legs get tired!",
     "createBy": "Janine Smith",
@@ -64,16 +72,7 @@
     "link": "./",
     "imgUrl": "https://4sport.ua/_upl/2/1482/233370614.jpg"
   }, {
-    "id": "222221223",
-    "title": "Workout of the Week:\n“Say Yes!”",
-    "description": "Great Britain international marathoner Lily Partridge shares a workout designed to keep you going when your legs get tired!",
-    "createBy": "Janine Smith",
-    "createDate": "18 May 2019",
-    "trail": "Little Oil Creek",
-    "link": "./",
-    "imgUrl": "https://4sport.ua/_upl/2/1482/233370614.jpg"
-  }, {
-    "id": "232222123",
+    "id": "8",
     "title": "Workout of the Week:\n“Say Yes!”",
     "description": "Great Britain international marathoner Lily Partridge shares a workout designed to keep you going when your legs get tired!",
     "createBy": "Janine Smith",
